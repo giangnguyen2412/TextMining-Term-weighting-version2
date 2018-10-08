@@ -25,8 +25,8 @@ vocab_index = {}
 vocab_size = 0
 doc_size = 0
 
-WEIGHT_CSV = 'weight.csv'
-WEIGHT_CSV_SORT = 'weight_sort.csv'
+WEIGHT_CSV = ('weight.csv')
+WEIGHT_CSV_SORT = ('weight_sort.csv')
 EXPECTED_TERM_NUM = 50
 
 # Token lemmatizing
